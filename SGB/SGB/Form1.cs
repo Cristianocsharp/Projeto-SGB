@@ -18,7 +18,7 @@ namespace SGB
 
         private void Button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Este é um exemplo","Atenção",MessageBoxButtons.OK);
+            MessageBox.Show("Este é um exemplo","55Atenção",MessageBoxButtons.OK);
         }
     }
 }
